@@ -1,0 +1,13 @@
+.login, 
+.register {
+    border: 1px solid gainsboro;
+    float: left;
+    margin: .8rem;
+    padding: .4rem;
+    width: 300px;
+}
+
+th {
+    text-transform: uppercase; 
+    color: grey;
+}
